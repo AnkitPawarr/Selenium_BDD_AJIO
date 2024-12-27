@@ -13,7 +13,6 @@ import java.time.Duration;
 import java.util.Properties;
 
 import static com.Jio.utilities.Constants.MEDDIUM_WAIT;
-import static com.Jio.utilities.Constants.SHORT_WAIT;
 
 public class DriverFactory {
 
