@@ -43,7 +43,9 @@ public class CheckoutStepDef {
         homePage.closeLocationPopup();
 
         productsPage = homePage.doClickOnChildMenu(parentMenu, childMenu);
-        Assert.assertEquals(productsPage.getPerfumePageURL(), perfumePageURL);
+        //Assert.assertEquals(productsPage.getPerfumePageURL(), perfumePageURL);
+        
+        Assert.assertEquals(productsPage.doGetProductPageHeader(), childMenu);
         log.info("User has been successfully navigated to: " + childMenu);
     }
 

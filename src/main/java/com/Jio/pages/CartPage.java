@@ -20,7 +20,7 @@ public class CartPage {
         eleUtil = new ElementUtil(driver);
     }
 
-    @FindBy(xpath = "//div[@class='product-name']")
+    @FindBy(xpath = "//div[@class='product-name']/div")
     private WebElement productName;
 
     public String getCartPageTitle() {

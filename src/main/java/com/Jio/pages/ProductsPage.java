@@ -22,6 +22,9 @@ public class ProductsPage {
         eleUtil = new ElementUtil(driver);
     }
 
+    @FindBy(xpath = "//*[@id='products']//h1/div[2]")
+    private WebElement pageHeader;
+
     @FindBy(xpath = "//div[@aria-label='Quick View']")
     private List<WebElement> quickView;
 
@@ -34,8 +37,13 @@ public class ProductsPage {
     @FindBy(xpath = "//div[@class='ic-cart ']")
     private WebElement cartIcon;
 
+    public String doGetProductPageHeader() {
+        return eleUtil.doGetText(pageHeader);
+    }
+
     public AddToCartPage doOpenQuickView(String brandName, String itemName) throws InterruptedException {
         eleUtil.doClickOnOtherElement(brand, brandName, item, itemName, quickView);
+        Thread.sleep(1000);
         return new AddToCartPage(driver);
     }
 

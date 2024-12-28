@@ -29,7 +29,7 @@ public class Base extends DriverFactory {
         driver = initTlDriver(env, browser);
     }
 
-    @After
+    @After(order = 100)
     public void tearDown() {
         quitTlDriver();
     }

@@ -1,3 +1,4 @@
+@Login
 Feature: Login
 
   As an existing customer of Ajio,

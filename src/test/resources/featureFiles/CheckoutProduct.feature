@@ -11,5 +11,7 @@ Feature: Checkout Products
     And The user clicks Add_To_Bag and navigates to Cart page
     Then The user should be able to see "<Brand_name>" : "<Product>"
     Examples:
-      | Category | Menu     | Brand_name | Product                         |
-      | BEAUTY   | Perfumes | GUESS      | Bella Vita Rosa Eau De Toilette |
+      | Category       | Menu            | Brand_name  | Product                         |
+      | BEAUTY         | Perfumes        | GUESS       | Bella Vita Rosa Eau De Toilette |
+      | HOME & KITCHEN | Mirrors         | Home Centre | Gold-Plated Round Shape Mirror  |
+      | MEN            | Bags Under 1499 | NIKE        | Heritage Waistpack              |

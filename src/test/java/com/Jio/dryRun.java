@@ -1,6 +1,6 @@
 package com.Jio;
 
-import com.Jio.uiPOJO.PhoneNumbers;
+import com.Jio.pojo.PhoneNumbers;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.File;

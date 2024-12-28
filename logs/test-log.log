@@ -1717,3 +1717,602 @@ Resend OTP in 49s
 2024-12-26 18:18:19 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
 2024-12-26 18:18:24 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com/cart
 2024-12-26 18:18:24 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 13:11:49 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 13:11:49 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 13:11:49 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 13:11:49 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 13:12:36 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 13:12:36 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 13:12:36 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 13:12:36 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 13:12:42 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 13:12:42 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 13:12:42 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 13:12:42 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 13:12:42 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 13:12:42 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 13:12:45 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 13:12:45 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 13:12:59 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 13:12:59 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 13:12:59 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 13:12:59 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 13:14:50 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 13:14:50 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 13:14:50 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 13:14:50 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 13:14:54 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 13:14:54 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 13:14:54 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 13:14:54 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 13:14:54 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 13:14:54 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 13:14:57 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 13:14:57 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 13:16:52 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 13:16:52 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 13:16:52 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 13:16:52 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 13:16:56 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 13:16:56 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (87e659a23d08222b73a248e8ee729fcc)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 13:16:56 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 13:16:56 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 13:16:56 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (87e659a23d08222b73a248e8ee729fcc)] -> id: closeBtn]'.
+2024-12-28 13:16:56 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Perfumes', from Parent menu: BEAUTY
+2024-12-28 13:16:56 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'BEAUTY
+2024-12-28 13:16:58 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Perfumes
+2024-12-28 13:17:01 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (87e659a23d08222b73a248e8ee729fcc)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-28 13:17:04 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Perfumes
+2024-12-28 13:17:04 [main] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 13:17:06 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (87e659a23d08222b73a248e8ee729fcc)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (87e659a23d08222b73a248e8ee729fcc)] -> xpath: //div[@class='brand']]
+2024-12-28 13:17:09 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (87e659a23d08222b73a248e8ee729fcc)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-28 13:17:09 [main] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 13:17:09 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 13:17:09 [main] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: GUESS - Bella Vita Rosa Eau De Toilette
+2024-12-28 13:17:09 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (87e659a23d08222b73a248e8ee729fcc)] -> xpath: //div[@class='btn-gold']]', after '3' seconds.
+2024-12-28 13:17:11 [main] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-28 13:17:11 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (87e659a23d08222b73a248e8ee729fcc)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-28 13:17:13 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-28 13:17:13 [main] INFO  com.Jio.factory.DriverFactory - Product: 'GUESS: Bella Vita Rosa Eau De Toilette' has been successfully added in Cart.
+2024-12-28 13:17:13 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 13:17:13 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 13:17:13 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 13:17:13 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 13:17:13 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 13:17:16 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 13:17:16 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (11b435fec44b79913bcb2d29061ca610)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 13:17:16 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 13:17:16 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 13:17:16 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (11b435fec44b79913bcb2d29061ca610)] -> id: closeBtn]'.
+2024-12-28 13:17:16 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Home Page.
+2024-12-28 13:17:16 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (11b435fec44b79913bcb2d29061ca610)] -> id: loginAjio]'.
+2024-12-28 13:17:16 [main] INFO  com.Jio.factory.DriverFactory - Entering value: '9820654890' in the WebElement: '[[ChromeDriver: chrome on windows (11b435fec44b79913bcb2d29061ca610)] -> xpath: //input[@type='number']]'.
+2024-12-28 13:17:16 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (11b435fec44b79913bcb2d29061ca610)] -> xpath: //input[@type='number']]'.
+2024-12-28 13:17:17 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (11b435fec44b79913bcb2d29061ca610)] -> xpath: //input[@type='submit']]'.
+2024-12-28 13:17:18 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (11b435fec44b79913bcb2d29061ca610)] -> xpath: //input[@type='tel']]'.
+2024-12-28 13:17:18 [main] INFO  com.Jio.factory.DriverFactory - Entering OTP manually.
+2024-12-28 13:17:28 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (11b435fec44b79913bcb2d29061ca610)] -> xpath: //input[@type='submit']]'.
+2024-12-28 13:17:29 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (11b435fec44b79913bcb2d29061ca610)] -> xpath: //span[@class='ignore-sentence-case']]]' is Displayed.
+2024-12-28 13:17:29 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 13:17:29 [main] INFO  com.Jio.factory.DriverFactory - Fetched User name text as: ankit
+2024-12-28 13:17:29 [main] INFO  com.Jio.factory.DriverFactory - User: 'ankit', has been successfully logged in.
+2024-12-28 13:17:29 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 13:18:38 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 13:18:38 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 13:18:38 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 13:18:38 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 13:18:44 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 13:18:44 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (56bca6e4e319065056adc81f711fc94e)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 13:18:44 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 13:18:44 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 13:18:44 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (56bca6e4e319065056adc81f711fc94e)] -> id: closeBtn]'.
+2024-12-28 13:18:44 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Perfumes', from Parent menu: BEAUTY
+2024-12-28 13:18:44 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'BEAUTY
+2024-12-28 13:18:46 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Perfumes
+2024-12-28 13:18:49 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (56bca6e4e319065056adc81f711fc94e)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-28 13:18:50 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Perfumes
+2024-12-28 13:18:50 [main] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 13:18:53 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (56bca6e4e319065056adc81f711fc94e)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (56bca6e4e319065056adc81f711fc94e)] -> xpath: //div[@class='brand']]
+2024-12-28 13:18:55 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (56bca6e4e319065056adc81f711fc94e)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-28 13:18:55 [main] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 13:18:55 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 13:18:55 [main] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: GUESS - Bella Vita Rosa Eau De Toilette
+2024-12-28 13:18:55 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (56bca6e4e319065056adc81f711fc94e)] -> xpath: //div[@class='btn-gold']]', after '3' seconds.
+2024-12-28 13:18:57 [main] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-28 13:18:57 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (56bca6e4e319065056adc81f711fc94e)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-28 13:18:59 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-28 13:18:59 [main] INFO  com.Jio.factory.DriverFactory - Product: 'GUESS: Bella Vita Rosa Eau De Toilette' has been successfully added in Cart.
+2024-12-28 13:18:59 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 13:24:13 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 13:24:13 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 13:24:13 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 13:24:13 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 13:24:16 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 13:24:16 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (79ccbf287b5d6198066b1313e348ba69)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 13:24:16 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 13:24:16 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 13:24:16 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (79ccbf287b5d6198066b1313e348ba69)] -> id: closeBtn]'.
+2024-12-28 13:24:16 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Perfumes', from Parent menu: BEAUTY
+2024-12-28 13:24:16 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'BEAUTY
+2024-12-28 13:24:18 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Perfumes
+2024-12-28 13:24:20 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (79ccbf287b5d6198066b1313e348ba69)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-28 13:24:22 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Perfumes
+2024-12-28 13:24:22 [main] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 13:24:24 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (79ccbf287b5d6198066b1313e348ba69)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (79ccbf287b5d6198066b1313e348ba69)] -> xpath: //div[@class='brand']]
+2024-12-28 13:24:26 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (79ccbf287b5d6198066b1313e348ba69)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-28 13:24:27 [main] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 13:24:27 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 13:24:27 [main] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: GUESS - Bella Vita Rosa Eau De Toilette
+2024-12-28 13:24:27 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (79ccbf287b5d6198066b1313e348ba69)] -> xpath: //div[@class='btn-gold']]', after '3' seconds.
+2024-12-28 13:24:29 [main] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-28 13:24:29 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (79ccbf287b5d6198066b1313e348ba69)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-28 13:24:30 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 13:24:31 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 13:24:31 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 13:24:31 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 13:24:31 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 13:24:34 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 13:24:34 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (c35a6401723616a11dfb182e26be8c69)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 13:24:34 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 13:24:34 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 13:24:34 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (c35a6401723616a11dfb182e26be8c69)] -> id: closeBtn]'.
+2024-12-28 13:24:35 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Mirrors', from Parent menu: HOME & KITCHEN
+2024-12-28 13:24:35 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'HOME & KITCHEN
+2024-12-28 13:24:38 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Mirrors
+2024-12-28 13:24:41 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (c35a6401723616a11dfb182e26be8c69)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-28 13:24:45 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 15:44:06 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 15:44:06 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 15:44:06 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 15:44:06 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 15:44:14 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 15:44:14 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 15:44:14 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 15:44:14 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 15:44:14 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 15:44:20 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 15:46:47 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 15:46:47 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 15:46:47 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 15:46:47 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 15:46:54 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 15:46:54 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 15:46:54 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 15:46:54 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 15:46:54 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 15:46:59 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 15:46:59 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (4fbecc17d39dc2c0d983cafec0793183)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 15:46:59 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 15:46:59 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 15:46:59 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (4fbecc17d39dc2c0d983cafec0793183)] -> id: closeBtn]'.
+2024-12-28 15:47:00 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Mirrors', from Parent menu: HOME & KITCHEN
+2024-12-28 15:47:00 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'HOME & KITCHEN
+2024-12-28 15:47:05 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Mirrors
+2024-12-28 15:47:13 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (4fbecc17d39dc2c0d983cafec0793183)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-28 15:47:14 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Mirrors
+2024-12-28 15:47:14 [main] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 15:47:17 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (4fbecc17d39dc2c0d983cafec0793183)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (4fbecc17d39dc2c0d983cafec0793183)] -> xpath: //div[@class='brand']]
+2024-12-28 15:47:19 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (4fbecc17d39dc2c0d983cafec0793183)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-28 15:47:19 [main] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 15:47:19 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 15:47:19 [main] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: Home Centre - Gold-Plated Round Shape Mirror
+2024-12-28 15:47:20 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (4fbecc17d39dc2c0d983cafec0793183)] -> xpath: //div[@class='btn-gold']]', after '3' seconds.
+2024-12-28 15:47:22 [main] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-28 15:47:22 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (4fbecc17d39dc2c0d983cafec0793183)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-28 15:47:24 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-28 15:47:24 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 15:55:22 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 15:55:22 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 15:55:22 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 15:55:22 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 15:55:26 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 15:55:26 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (800c8c3aca10a73e9050ecf072046b33)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 15:55:26 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 15:55:26 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 15:55:26 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (800c8c3aca10a73e9050ecf072046b33)] -> id: closeBtn]'.
+2024-12-28 15:55:26 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Perfumes', from Parent menu: BEAUTY
+2024-12-28 15:55:26 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'BEAUTY
+2024-12-28 15:55:28 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Perfumes
+2024-12-28 15:55:30 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (800c8c3aca10a73e9050ecf072046b33)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-28 15:55:32 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Perfumes
+2024-12-28 15:55:32 [main] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 15:55:33 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 15:55:33 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 15:55:34 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 15:55:34 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 15:55:34 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 15:55:34 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 15:55:34 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 15:55:34 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 15:55:34 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 15:55:34 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 15:55:34 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 15:55:34 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (800c8c3aca10a73e9050ecf072046b33)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (800c8c3aca10a73e9050ecf072046b33)] -> xpath: //div[@class='brand']]
+2024-12-28 15:55:37 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (800c8c3aca10a73e9050ecf072046b33)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-28 15:55:37 [main] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 15:55:37 [main] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: GUESS - Bella Vita Rosa Eau De Toilette
+2024-12-28 15:55:37 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (800c8c3aca10a73e9050ecf072046b33)] -> xpath: //div[@class='btn-gold']]', after '3' seconds.
+2024-12-28 15:55:39 [main] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-28 15:55:39 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (800c8c3aca10a73e9050ecf072046b33)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-28 15:55:41 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-28 15:55:41 [main] INFO  com.Jio.factory.DriverFactory - Product: 'GUESS: Bella Vita Rosa Eau De Toilette' has been successfully added in Cart.
+2024-12-28 15:55:41 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 15:55:41 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 15:55:41 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 15:55:41 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 15:55:41 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 15:55:46 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 15:55:46 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (2e575f5d7d7d8074951c3e0853b50b33)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 15:55:46 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 15:55:46 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 15:55:46 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (2e575f5d7d7d8074951c3e0853b50b33)] -> id: closeBtn]'.
+2024-12-28 15:55:46 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Mirrors', from Parent menu: HOME & KITCHEN
+2024-12-28 15:55:46 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'HOME & KITCHEN
+2024-12-28 15:55:48 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Mirrors
+2024-12-28 15:55:50 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (2e575f5d7d7d8074951c3e0853b50b33)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-28 15:55:52 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Mirrors
+2024-12-28 15:55:52 [main] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 15:55:54 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 15:55:54 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 15:55:54 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 15:55:54 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 15:55:54 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 15:55:54 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 15:55:54 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 15:55:54 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (2e575f5d7d7d8074951c3e0853b50b33)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (2e575f5d7d7d8074951c3e0853b50b33)] -> xpath: //div[@class='brand']]
+2024-12-28 15:55:57 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (2e575f5d7d7d8074951c3e0853b50b33)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-28 15:55:57 [main] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 15:55:57 [main] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: Home Centre - Gold-Plated Round Shape Mirror
+2024-12-28 15:55:57 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (2e575f5d7d7d8074951c3e0853b50b33)] -> xpath: //div[@class='btn-gold']]', after '3' seconds.
+2024-12-28 15:55:59 [main] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-28 15:55:59 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (2e575f5d7d7d8074951c3e0853b50b33)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-28 15:56:01 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-28 15:56:01 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 16:03:48 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 16:03:48 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 16:03:48 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 16:03:48 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 16:03:53 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 16:03:53 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (72a1d219808507bc64d8550509722932)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 16:03:53 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 16:03:53 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 16:03:53 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (72a1d219808507bc64d8550509722932)] -> id: closeBtn]'.
+2024-12-28 16:03:53 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Perfumes', from Parent menu: BEAUTY
+2024-12-28 16:03:53 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'BEAUTY
+2024-12-28 16:03:56 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Perfumes
+2024-12-28 16:03:59 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (72a1d219808507bc64d8550509722932)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-28 16:04:01 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Perfumes
+2024-12-28 16:04:01 [main] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:04:02 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:04:02 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:04:03 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:04:03 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:04:03 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:04:03 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:04:03 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:04:03 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:04:03 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:04:03 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:04:03 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:04:03 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (72a1d219808507bc64d8550509722932)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (72a1d219808507bc64d8550509722932)] -> xpath: //div[@class='brand']]
+2024-12-28 16:04:05 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (72a1d219808507bc64d8550509722932)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-28 16:04:05 [main] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:04:05 [main] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: GUESS - Bella Vita Rosa Eau De Toilette
+2024-12-28 16:04:06 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (72a1d219808507bc64d8550509722932)] -> xpath: //div[@class='btn-gold']]', after '3' seconds.
+2024-12-28 16:04:08 [main] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-28 16:04:08 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (72a1d219808507bc64d8550509722932)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-28 16:04:10 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-28 16:04:10 [main] INFO  com.Jio.factory.DriverFactory - Product: 'GUESS: Bella Vita Rosa Eau De Toilette' has been successfully added in Cart.
+2024-12-28 16:04:10 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 16:04:10 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 16:04:10 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 16:04:10 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 16:04:10 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 16:04:13 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 16:04:13 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (2f6533f8779b71c401a1ff90d3543e80)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 16:04:13 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 16:04:13 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 16:04:13 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (2f6533f8779b71c401a1ff90d3543e80)] -> id: closeBtn]'.
+2024-12-28 16:04:13 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Mirrors', from Parent menu: HOME & KITCHEN
+2024-12-28 16:04:13 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'HOME & KITCHEN
+2024-12-28 16:04:16 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Mirrors
+2024-12-28 16:04:20 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (2f6533f8779b71c401a1ff90d3543e80)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-28 16:04:21 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Mirrors
+2024-12-28 16:04:21 [main] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:04:23 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:04:23 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:04:23 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:04:23 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:04:23 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:04:23 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:04:23 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:04:23 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (2f6533f8779b71c401a1ff90d3543e80)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (2f6533f8779b71c401a1ff90d3543e80)] -> xpath: //div[@class='brand']]
+2024-12-28 16:04:25 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (2f6533f8779b71c401a1ff90d3543e80)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-28 16:04:26 [main] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:04:26 [main] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: Home Centre - Gold-Plated Round Shape Mirror
+2024-12-28 16:04:26 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (2f6533f8779b71c401a1ff90d3543e80)] -> xpath: //div[@class='btn-gold']]', after '3' seconds.
+2024-12-28 16:04:28 [main] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-28 16:04:28 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (2f6533f8779b71c401a1ff90d3543e80)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-28 16:04:30 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-28 16:04:30 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 16:04:30 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 16:04:30 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 16:04:30 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 16:04:30 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 16:04:34 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 16:04:34 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (d1556a9b35e59efceba2f32ea1ff8f08)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 16:04:34 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 16:04:34 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 16:04:34 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (d1556a9b35e59efceba2f32ea1ff8f08)] -> id: closeBtn]'.
+2024-12-28 16:04:34 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Bags Under 1499', from Parent menu: MEN
+2024-12-28 16:04:34 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'MEN
+2024-12-28 16:04:35 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Bags Under 1499
+2024-12-28 16:04:35 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (d1556a9b35e59efceba2f32ea1ff8f08)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-28 16:04:37 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Bags Under 1499
+2024-12-28 16:04:37 [main] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:04:39 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:04:39 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:04:39 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:04:39 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:04:39 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:04:39 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:04:39 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:04:39 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (d1556a9b35e59efceba2f32ea1ff8f08)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (d1556a9b35e59efceba2f32ea1ff8f08)] -> xpath: //div[@class='brand']]
+2024-12-28 16:04:42 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (d1556a9b35e59efceba2f32ea1ff8f08)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-28 16:04:42 [main] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:04:42 [main] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: NIKE - Heritage Waistpack
+2024-12-28 16:04:42 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (d1556a9b35e59efceba2f32ea1ff8f08)] -> xpath: //div[@class='btn-gold']]', after '3' seconds.
+2024-12-28 16:04:44 [main] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-28 16:04:44 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (d1556a9b35e59efceba2f32ea1ff8f08)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-28 16:04:45 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 16:06:36 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 16:06:36 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 16:06:36 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 16:06:36 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 16:06:39 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 16:06:39 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (f3aed8917f2ad0f8fb3afff1416a5c5d)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 16:06:39 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 16:06:39 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 16:06:39 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (f3aed8917f2ad0f8fb3afff1416a5c5d)] -> id: closeBtn]'.
+2024-12-28 16:06:39 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Perfumes', from Parent menu: BEAUTY
+2024-12-28 16:06:39 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'BEAUTY
+2024-12-28 16:06:41 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Perfumes
+2024-12-28 16:06:44 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (f3aed8917f2ad0f8fb3afff1416a5c5d)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-28 16:06:45 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Perfumes
+2024-12-28 16:06:45 [main] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:06:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:06:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:06:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:06:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:06:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:06:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:06:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:06:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:06:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:06:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:06:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:06:47 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (f3aed8917f2ad0f8fb3afff1416a5c5d)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (f3aed8917f2ad0f8fb3afff1416a5c5d)] -> xpath: //div[@class='brand']]
+2024-12-28 16:06:50 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (f3aed8917f2ad0f8fb3afff1416a5c5d)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-28 16:06:50 [main] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:06:50 [main] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: GUESS - Bella Vita Rosa Eau De Toilette
+2024-12-28 16:06:50 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (f3aed8917f2ad0f8fb3afff1416a5c5d)] -> xpath: //div[@class='btn-gold']]', after '5' seconds.
+2024-12-28 16:06:52 [main] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-28 16:06:52 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (f3aed8917f2ad0f8fb3afff1416a5c5d)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-28 16:06:53 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 16:06:54 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 16:06:54 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 16:06:54 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 16:06:54 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 16:06:57 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 16:06:57 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (62767ad49f8195126ce244210ad6254f)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 16:06:57 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 16:06:57 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 16:06:57 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (62767ad49f8195126ce244210ad6254f)] -> id: closeBtn]'.
+2024-12-28 16:06:57 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Mirrors', from Parent menu: HOME & KITCHEN
+2024-12-28 16:06:57 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'HOME & KITCHEN
+2024-12-28 16:06:58 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 16:06:58 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 16:06:58 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 16:06:58 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 16:06:58 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 16:07:00 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 16:07:00 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 16:07:31 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 16:07:31 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 16:07:31 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 16:07:31 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 16:07:35 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 16:07:35 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (7ee0ca3cccbcc11a8512b66adea2b386)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 16:07:35 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 16:07:35 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 16:07:35 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (7ee0ca3cccbcc11a8512b66adea2b386)] -> id: closeBtn]'.
+2024-12-28 16:07:36 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Perfumes', from Parent menu: BEAUTY
+2024-12-28 16:07:36 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'BEAUTY
+2024-12-28 16:07:38 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Perfumes
+2024-12-28 16:07:41 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (7ee0ca3cccbcc11a8512b66adea2b386)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-28 16:07:42 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Perfumes
+2024-12-28 16:07:42 [main] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:07:44 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:07:44 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:07:44 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:07:44 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:07:44 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:07:44 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:07:44 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:07:44 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:07:44 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:07:44 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:07:44 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:07:44 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (7ee0ca3cccbcc11a8512b66adea2b386)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (7ee0ca3cccbcc11a8512b66adea2b386)] -> xpath: //div[@class='brand']]
+2024-12-28 16:07:46 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (7ee0ca3cccbcc11a8512b66adea2b386)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-28 16:07:47 [main] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:07:48 [main] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: GUESS - Bella Vita Rosa Eau De Toilette
+2024-12-28 16:07:48 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (7ee0ca3cccbcc11a8512b66adea2b386)] -> xpath: //div[@class='btn-gold']]', after '5' seconds.
+2024-12-28 16:07:50 [main] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-28 16:07:50 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (7ee0ca3cccbcc11a8512b66adea2b386)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-28 16:07:52 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-28 16:07:52 [main] INFO  com.Jio.factory.DriverFactory - Product: 'GUESS: Bella Vita Rosa Eau De Toilette' has been successfully added in Cart.
+2024-12-28 16:07:52 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 16:07:52 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 16:07:52 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 16:07:52 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 16:07:52 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 16:07:55 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 16:07:55 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (1b1cd38247858544a3da3c52144f428b)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 16:07:55 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 16:07:55 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 16:07:55 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (1b1cd38247858544a3da3c52144f428b)] -> id: closeBtn]'.
+2024-12-28 16:07:55 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Mirrors', from Parent menu: HOME & KITCHEN
+2024-12-28 16:07:55 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'HOME & KITCHEN
+2024-12-28 16:07:58 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Mirrors
+2024-12-28 16:08:02 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (1b1cd38247858544a3da3c52144f428b)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-28 16:08:04 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Mirrors
+2024-12-28 16:08:04 [main] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:08:06 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:08:06 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:08:06 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:08:06 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:08:06 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:08:06 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:08:06 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:08:06 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (1b1cd38247858544a3da3c52144f428b)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (1b1cd38247858544a3da3c52144f428b)] -> xpath: //div[@class='brand']]
+2024-12-28 16:08:09 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (1b1cd38247858544a3da3c52144f428b)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-28 16:08:09 [main] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:08:10 [main] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: Home Centre - Gold-Plated Round Shape Mirror
+2024-12-28 16:08:10 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (1b1cd38247858544a3da3c52144f428b)] -> xpath: //div[@class='btn-gold']]', after '5' seconds.
+2024-12-28 16:08:12 [main] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-28 16:08:12 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (1b1cd38247858544a3da3c52144f428b)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-28 16:08:13 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-28 16:08:13 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 16:08:14 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 16:08:14 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 16:08:14 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 16:08:14 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 16:08:18 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 16:08:18 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (b7fb232b792206c27261d807f9acc413)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 16:08:18 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 16:08:18 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 16:08:18 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (b7fb232b792206c27261d807f9acc413)] -> id: closeBtn]'.
+2024-12-28 16:08:18 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Bags Under 1499', from Parent menu: MEN
+2024-12-28 16:08:18 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'MEN
+2024-12-28 16:08:19 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Bags Under 1499
+2024-12-28 16:08:19 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (b7fb232b792206c27261d807f9acc413)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-28 16:08:20 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Bags Under 1499
+2024-12-28 16:08:20 [main] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:08:22 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:08:22 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:08:22 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:08:22 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:08:22 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:08:22 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:08:22 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:08:22 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (b7fb232b792206c27261d807f9acc413)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (b7fb232b792206c27261d807f9acc413)] -> xpath: //div[@class='brand']]
+2024-12-28 16:08:25 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (b7fb232b792206c27261d807f9acc413)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-28 16:08:25 [main] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:08:26 [main] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: NIKE - Heritage Waistpack
+2024-12-28 16:08:26 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (b7fb232b792206c27261d807f9acc413)] -> xpath: //div[@class='btn-gold']]', after '5' seconds.
+2024-12-28 16:08:28 [main] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-28 16:08:28 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (b7fb232b792206c27261d807f9acc413)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-28 16:08:31 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-28 16:08:31 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 16:21:10 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 16:21:10 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 16:21:10 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 16:21:10 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 16:21:13 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 16:21:14 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (902d4f6be54c7b6a6f6c6e14c24f2252)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 16:21:14 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 16:21:14 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 16:21:14 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (902d4f6be54c7b6a6f6c6e14c24f2252)] -> id: closeBtn]'.
+2024-12-28 16:21:14 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Perfumes', from Parent menu: BEAUTY
+2024-12-28 16:21:14 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'BEAUTY
+2024-12-28 16:21:16 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Perfumes
+2024-12-28 16:21:19 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (902d4f6be54c7b6a6f6c6e14c24f2252)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-28 16:21:20 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Perfumes
+2024-12-28 16:21:20 [main] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:21:22 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:21:22 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:21:22 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:21:22 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:21:23 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:21:23 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:21:23 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:21:23 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:21:23 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:21:23 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:21:23 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:21:23 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (902d4f6be54c7b6a6f6c6e14c24f2252)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (902d4f6be54c7b6a6f6c6e14c24f2252)] -> xpath: //div[@class='brand']]
+2024-12-28 16:21:25 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (902d4f6be54c7b6a6f6c6e14c24f2252)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-28 16:21:26 [main] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-28 16:21:27 [main] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: GUESS - Bella Vita Rosa Eau De Toilette
+2024-12-28 16:21:27 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (902d4f6be54c7b6a6f6c6e14c24f2252)] -> xpath: //div[@class='btn-gold']]', after '5' seconds.
+2024-12-28 16:21:29 [main] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-28 16:21:29 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (902d4f6be54c7b6a6f6c6e14c24f2252)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-28 16:21:31 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-28 16:21:31 [main] INFO  com.Jio.factory.DriverFactory - Product: 'GUESS: Bella Vita Rosa Eau De Toilette' has been successfully added in Cart.
+2024-12-28 16:21:31 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 16:21:33 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 16:21:33 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 16:21:33 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 16:21:33 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 16:21:37 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 16:21:37 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (d0f6c585b94bddb14dd676925163f96f)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 16:21:37 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 16:21:37 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 16:21:37 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (d0f6c585b94bddb14dd676925163f96f)] -> id: closeBtn]'.
+2024-12-28 16:21:37 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Mirrors', from Parent menu: HOME & KITCHEN
+2024-12-28 16:21:37 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'HOME & KITCHEN
+2024-12-28 16:21:40 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Mirrors
+2024-12-28 16:21:44 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (d0f6c585b94bddb14dd676925163f96f)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-28 16:21:45 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Mirrors
+2024-12-28 16:21:45 [main] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:21:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:21:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:21:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:21:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:21:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:21:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:21:47 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:21:47 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (d0f6c585b94bddb14dd676925163f96f)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (d0f6c585b94bddb14dd676925163f96f)] -> xpath: //div[@class='brand']]
+2024-12-28 16:21:49 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (d0f6c585b94bddb14dd676925163f96f)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-28 16:21:50 [main] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-28 16:21:51 [main] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: Home Centre - Gold-Plated Round Shape Mirror
+2024-12-28 16:21:51 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (d0f6c585b94bddb14dd676925163f96f)] -> xpath: //div[@class='btn-gold']]', after '5' seconds.
+2024-12-28 16:21:53 [main] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-28 16:21:53 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (d0f6c585b94bddb14dd676925163f96f)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-28 16:21:56 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-28 16:21:57 [main] INFO  com.Jio.factory.DriverFactory - Product: 'Home Centre: Gold-Plated Round Shape Mirror' has been successfully added in Cart.
+2024-12-28 16:21:57 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-28 16:21:57 [main] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-28 16:21:57 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-28 16:21:57 [main] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-28 16:21:57 [main] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-28 16:22:00 [main] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-28 16:22:00 [main] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (3b0954115c16ee8ec94b6a52b3190b4f)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-28 16:22:00 [main] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-28 16:22:00 [main] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-28 16:22:00 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (3b0954115c16ee8ec94b6a52b3190b4f)] -> id: closeBtn]'.
+2024-12-28 16:22:00 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Bags Under 1499', from Parent menu: MEN
+2024-12-28 16:22:00 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'MEN
+2024-12-28 16:22:00 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Bags Under 1499
+2024-12-28 16:22:01 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (3b0954115c16ee8ec94b6a52b3190b4f)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-28 16:22:03 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Bags Under 1499
+2024-12-28 16:22:03 [main] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:22:04 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:22:04 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:22:04 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:22:04 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:22:04 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:22:04 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:22:04 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:22:04 [main] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:22:04 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (3b0954115c16ee8ec94b6a52b3190b4f)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (3b0954115c16ee8ec94b6a52b3190b4f)] -> xpath: //div[@class='brand']]
+2024-12-28 16:22:07 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (3b0954115c16ee8ec94b6a52b3190b4f)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-28 16:22:07 [main] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-28 16:22:08 [main] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: NIKE - Heritage Waistpack
+2024-12-28 16:22:08 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (3b0954115c16ee8ec94b6a52b3190b4f)] -> xpath: //div[@class='btn-gold']]', after '5' seconds.
+2024-12-28 16:22:10 [main] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-28 16:22:10 [main] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (3b0954115c16ee8ec94b6a52b3190b4f)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-28 16:22:13 [main] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-28 16:22:13 [main] INFO  com.Jio.factory.DriverFactory - Product: 'NIKE: Heritage Waistpack' has been successfully added in Cart.
+2024-12-28 16:22:13 [main] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.

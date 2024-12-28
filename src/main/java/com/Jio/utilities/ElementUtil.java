@@ -237,8 +237,8 @@ public class ElementUtil {
             } else {
 
             }
+            log.error("No such Product found of Brand: '" + optionText + "', and item: '" + subOptionText);
         }
-        log.error("No such Product found of Brand: '" + optionText + "', and item: '" + subOptionText);
     }
 
     public void doSearch(WebElement searchField, String searchValue, List<WebElement> suggestions, String value) throws InterruptedException {

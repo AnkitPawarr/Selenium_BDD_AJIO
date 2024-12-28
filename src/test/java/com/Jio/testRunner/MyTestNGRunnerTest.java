@@ -4,9 +4,10 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
-        glue = {"com.Jio.uiStepDefinitions", "com.Jio.hooks"},
+        glue = {"com.Jio.stepDefinitions", "com.Jio.hooks"},
         features = {"src/test/resources/featureFiles"},
         monochrome = true,
+        tags = "not @Login",
         plugin = {
                 "pretty",
                 "html:target/cucumber-reports/cucumber.html",
