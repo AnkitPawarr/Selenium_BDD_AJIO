@@ -1,16 +1,14 @@
 package com.Jio.hooks;
 
 import com.Jio.factory.DriverFactory;
-import com.Jio.pages.HomePage;
-import com.Jio.pages.LoginPage;
-import com.Jio.pages.OtpPage;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
+import io.cucumber.java.Scenario;
 import org.openqa.selenium.WebDriver;
 
 public class Base extends DriverFactory {
 
-    public static WebDriver driver;
+    public WebDriver driver;
 
 
     private String fetchParameter(String parameterName, String defaultValue) {
@@ -22,15 +20,21 @@ public class Base extends DriverFactory {
     }
 
     @Before(order = 0)
-    public void setUp() {
+    public void setUp(Scenario sc) {
+        System.out.println("THREAD ID --- " + Thread.currentThread().threadId());
         String browser = fetchParameter("browser", "chrome");
         String env = fetchParameter("env", "sit");
 
         driver = initTlDriver(env, browser);
+        log.info("*********** Running SCENARIO: '" + sc.getName() + "' ***********");
+        System.out.println("********************** Running SCENARIO: '" + sc.getName() + "' **********************");
     }
 
     @After(order = 100)
-    public void tearDown() {
+    public void tearDown(Scenario sc) {
         quitTlDriver();
+        log.info("SCENARIO: '" + sc.getName() + "' is '" + sc.getStatus() + "'.");
+        System.out.println("********************** SCENARIO: '" + sc.getName() +
+                "' is '" + sc.getStatus() + "' **********************");
     }
 }

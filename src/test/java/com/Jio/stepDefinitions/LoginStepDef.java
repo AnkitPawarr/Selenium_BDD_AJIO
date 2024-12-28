@@ -2,7 +2,7 @@ package com.Jio.stepDefinitions;
 
 
 import static com.Jio.factory.DriverFactory.log;
-import static com.Jio.hooks.Base.driver;
+import static com.Jio.factory.DriverFactory.tlDriver;
 import static com.Jio.utilities.Constants.homePageURL;
 
 import com.Jio.pages.DashboardPage;
@@ -17,7 +17,7 @@ import org.testng.Assert;
 
 public class LoginStepDef {
 
-    private HomePage homePage = new HomePage(driver);
+    private HomePage homePage = new HomePage(tlDriver.get());
     private LoginPage loginPage;
     private OtpPage otpPage;
     private DashboardPage dashboardPage;

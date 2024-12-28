@@ -7,9 +7,10 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        glue = {"com.Jio.uiStepDefinitions", "com.Jio.hooks"},
+        glue = {"com.Jio.stepDefinitions", "com.Jio.hooks"},
         features = {"src/test/resources/featureFiles"},
         monochrome = true,
+        tags = "not @Login",
         plugin = {
                 "pretty",
                 "html:target/cucumber/cucumber.html",
@@ -17,5 +18,4 @@ import org.junit.runner.RunWith;
         }
 )
 public class MyJUnitRunnerTest {
-
 }

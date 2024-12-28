@@ -17,6 +17,7 @@
         <maven.surefire.version>3.0.0</maven.surefire.version>
         <selenium.version>4.27.0</selenium.version>
         <testng.version>7.10.2</testng.version>
+        <junit.jupiter.api.version>5.11.4</junit.jupiter.api.version>
         <cucumber.version>7.20.1</cucumber.version>
         <rest.assured.version>5.5.0</rest.assured.version>
         <json.schema.validator>5.5.0</json.schema.validator>
@@ -54,9 +55,9 @@
                         <include>**/ParallelRun.java</include>
                         <include>**/*Test.java</include>
                     </includes>
-                    <parallel>methods</parallel>
+                    <parallel>classes</parallel>
                     <threadCount>4</threadCount>
-                    <useUnlimitedThreads>false</useUnlimitedThreads>
+                    <!-- <useUnlimitedThreads>true</useUnlimitedThreads> -->
                 </configuration>
             </plugin>
         </plugins>
@@ -83,13 +84,21 @@
             <version>${selenium.version}</version>
         </dependency>
 
-        <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+        <!--  &lt;!&ndash; https://mvnrepository.com/artifact/org.testng/testng &ndash;&gt;
+          <dependency>
+              <groupId>org.testng</groupId>
+              <artifactId>testng</artifactId>
+              <version>${testng.version}</version>
+              <scope>compile</scope>
+          </dependency>-->
+
+        <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
         <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>${testng.version}</version>
-            <scope>compile</scope>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>${junit.jupiter.api.version}</version>
         </dependency>
+
 
         <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
         <dependency>

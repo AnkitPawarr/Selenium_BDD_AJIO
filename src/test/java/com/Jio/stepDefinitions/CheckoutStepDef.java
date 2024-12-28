@@ -8,11 +8,12 @@ import io.cucumber.java.en.When;
 import org.testng.Assert;
 
 import static com.Jio.factory.DriverFactory.log;
-import static com.Jio.hooks.Base.driver;
+//import static com.Jio.hooks.Base.driver;
+import static com.Jio.factory.DriverFactory.tlDriver;
 import static com.Jio.utilities.Constants.*;
 
 public class CheckoutStepDef {
-    private HomePage homePage = new HomePage(driver);
+    private HomePage homePage = new HomePage(tlDriver.get());
     private LoginPage loginPage;
     private OtpPage otpPage;
     private DashboardPage dashboardPage;
@@ -44,7 +45,7 @@ public class CheckoutStepDef {
 
         productsPage = homePage.doClickOnChildMenu(parentMenu, childMenu);
         //Assert.assertEquals(productsPage.getPerfumePageURL(), perfumePageURL);
-        
+
         Assert.assertEquals(productsPage.doGetProductPageHeader(), childMenu);
         log.info("User has been successfully navigated to: " + childMenu);
     }
