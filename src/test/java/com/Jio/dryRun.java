@@ -25,7 +25,7 @@ public class dryRun {
         }*//*
 
 
-        driver.findElement(By.xpath("//div[@class='modal-login-container']//input[@type='number']")).sendKeys("9820654890");
+        driver.findElement(By.xpath("//div[@class='modal-login-container']//input[@type='number']")).sendKeys("");
         driver.findElement(By.xpath("//div[@class='modal-login-container']//input[@type='submit']")).click();
 
 
