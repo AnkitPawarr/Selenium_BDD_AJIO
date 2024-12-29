@@ -52,11 +52,11 @@
                 <version>${maven.surefire.version}</version>
                 <configuration>
                     <includes>
-                        <include>**/ParallelRun.java</include>
+                        <!--<include>**/ParallelRun.java</include>-->
                         <include>**/*Test.java</include>
                     </includes>
-                    <parallel>classes</parallel>
-                    <threadCount>4</threadCount>
+                    <!-- <parallel>classes</parallel>
+                     <threadCount>4</threadCount>-->
                     <!-- <useUnlimitedThreads>true</useUnlimitedThreads> -->
                 </configuration>
             </plugin>
@@ -84,21 +84,20 @@
             <version>${selenium.version}</version>
         </dependency>
 
-        <!--  &lt;!&ndash; https://mvnrepository.com/artifact/org.testng/testng &ndash;&gt;
-          <dependency>
-              <groupId>org.testng</groupId>
-              <artifactId>testng</artifactId>
-              <version>${testng.version}</version>
-              <scope>compile</scope>
-          </dependency>-->
+        <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>${testng.version}</version>
+            <scope>compile</scope>
+        </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
-        <dependency>
+       <!-- <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
             <version>${junit.jupiter.api.version}</version>
-        </dependency>
-
+        </dependency>-->
 
         <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
         <dependency>
@@ -108,12 +107,12 @@
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
-        <dependency>
+        <!--<dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-junit</artifactId>
             <version>${cucumber.version}</version>
             <scope>compile</scope>
-        </dependency>
+        </dependency>-->
 
         <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-testng -->
         <dependency>

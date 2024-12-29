@@ -98,8 +98,7 @@ public class ElementUtil {
             log.info("WebElement: '" + element + "' is displayed, with the occurrence of " + elementCount);
             return true;
         } else {
-            log.error("Occurence of WebElement: '" + element + "' is '" + elementCount
-                    + "', Which is not as the expected occurence: " + expectedElementCount);
+            log.error("Occurence of WebElement: '" + element + "' is '" + elementCount + "', Which is not as the expected occurence: " + expectedElementCount);
             return false;
         }
     }
@@ -220,8 +219,7 @@ public class ElementUtil {
         }
     }
 
-    public void doClickOnOtherElement(List<WebElement> options, String optionText, List<WebElement> subOptions,
-                                      String subOptionText, List<WebElement> checkboxes) throws InterruptedException {
+    public void doClickOnOtherElement(List<WebElement> options, String optionText, List<WebElement> subOptions, String subOptionText, List<WebElement> checkboxes) throws InterruptedException {
         log.info("Finding for a Product of Brand: '" + optionText + "', and item: '" + subOptionText);
 
         jsUtil.scrollPageDown("8500");
@@ -234,11 +232,9 @@ public class ElementUtil {
                 handleParentSubMenu(options.get(i), checkboxes.get(i));
                 log.info("Clicked on Product of Brand: '" + optionText + "', and item: '" + subOptionText);
                 break;
-            } else {
-
             }
-            log.error("No such Product found of Brand: '" + optionText + "', and item: '" + subOptionText);
         }
+        //log.error("No such Product found of Brand: '" + optionText + "', and item: '" + subOptionText);
     }
 
     public void doSearch(WebElement searchField, String searchValue, List<WebElement> suggestions, String value) throws InterruptedException {
@@ -425,8 +421,7 @@ public class ElementUtil {
 
     public void isPageLoaded(int timeOut, String page) {
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(timeOut));
-        String flag = wait.until(ExpectedConditions.jsReturnsValue("return document.readyState === 'complete'"))
-                .toString(); // "true"
+        String flag = wait.until(ExpectedConditions.jsReturnsValue("return document.readyState === 'complete'")).toString(); // "true"
 
         if (Boolean.parseBoolean(flag)) {
             log.info("Page: '" + page + "' is completely loaded");

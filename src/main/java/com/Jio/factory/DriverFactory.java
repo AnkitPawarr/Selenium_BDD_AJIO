@@ -12,6 +12,7 @@ import org.openqa.selenium.safari.SafariDriver;
 import java.time.Duration;
 import java.util.Properties;
 
+import static com.Jio.utilities.Constants.LONG_WAIT;
 import static com.Jio.utilities.Constants.MEDDIUM_WAIT;
 
 public class DriverFactory {
@@ -57,8 +58,8 @@ public class DriverFactory {
         getTlDriver().manage().window().maximize();
         getTlDriver().manage().deleteAllCookies();
 
-        getTlDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(MEDDIUM_WAIT));
-        getTlDriver().manage().timeouts().pageLoadTimeout(Duration.ofSeconds(MEDDIUM_WAIT));
+        getTlDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(LONG_WAIT));
+        getTlDriver().manage().timeouts().pageLoadTimeout(Duration.ofSeconds(LONG_WAIT));
 
         getTlDriver().get(prop.getProperty("url"));
         log.info("Navigated to URL: " + prop.getProperty("url"));
@@ -69,6 +70,6 @@ public class DriverFactory {
     public void quitTlDriver() {
         log.info("Closing the Browser and Removing driver thread.");
         getTlDriver().quit();
-        tlDriver.remove();
+        tlDriver.remove(); // Ensure the thread-local reference is cleared
     }
 }

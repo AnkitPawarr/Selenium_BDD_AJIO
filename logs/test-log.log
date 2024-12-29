@@ -3150,3 +3150,462 @@ Resend OTP in 49s
 2024-12-28 20:28:25 [main] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Perfumes', from Parent menu: BEAUTY
 2024-12-28 20:28:25 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'BEAUTY
 2024-12-28 20:28:28 [main] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Perfumes
+2024-12-29 08:57:31 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 08:57:31 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 08:57:31 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 08:57:31 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 08:57:31 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 08:57:31 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 08:57:31 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 08:57:31 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 08:57:31 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 08:57:31 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 08:57:31 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 08:57:31 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 08:57:31 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 08:57:31 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 08:57:31 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 08:57:31 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 08:57:39 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 08:57:39 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 08:57:39 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 08:57:39 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 08:57:39 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'FAILED'.
+2024-12-29 08:57:39 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'FAILED'.
+2024-12-29 08:57:39 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Log in with valid Phone number' is 'FAILED'.
+2024-12-29 08:57:40 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'FAILED'.
+2024-12-29 09:02:50 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:02:50 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:02:50 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:02:50 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:02:50 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:02:50 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:02:50 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:02:50 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:02:50 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:02:50 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:02:50 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:02:50 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:02:50 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:02:50 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:02:50 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:02:50 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:02:57 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:02:57 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:02:57 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:02:57 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:02:57 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'FAILED'.
+2024-12-29 09:02:57 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Log in with valid Phone number' is 'FAILED'.
+2024-12-29 09:02:58 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'FAILED'.
+2024-12-29 09:02:58 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'FAILED'.
+2024-12-29 09:09:01 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:09:01 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:09:01 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:09:01 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:09:01 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:09:01 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:09:01 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:09:01 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:09:01 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:09:01 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:09:01 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:09:01 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:09:01 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:09:01 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:09:01 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:09:01 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:09:11 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-29 09:09:11 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - *********** Running SCENARIO: 'Adding Product(s) in Cart' ***********
+2024-12-29 09:09:11 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-29 09:09:11 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - *********** Running SCENARIO: 'Adding Product(s) in Cart' ***********
+2024-12-29 09:09:11 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-29 09:09:11 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - *********** Running SCENARIO: 'Adding Product(s) in Cart' ***********
+2024-12-29 09:09:12 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (bcb33608e474d769a9a8923a506745db)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-29 09:09:12 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-29 09:09:12 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - *********** Running SCENARIO: 'Log in with valid Phone number' ***********
+2024-12-29 09:09:12 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-29 09:09:12 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-29 09:09:12 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (a73afbd44459c4079034ffd96cf38c2c)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-29 09:09:12 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-29 09:09:12 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-29 09:09:12 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (0999b5ab9f42e80319ba957f3260549a)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-29 09:09:12 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-29 09:09:12 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-29 09:09:12 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (0999b5ab9f42e80319ba957f3260549a)] -> id: closeBtn]'.
+2024-12-29 09:09:12 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (bcb33608e474d769a9a8923a506745db)] -> id: closeBtn]'.
+2024-12-29 09:09:12 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (a73afbd44459c4079034ffd96cf38c2c)] -> id: closeBtn]'.
+2024-12-29 09:09:12 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (5497abf4a1c0c4cd5cf368b655feb695)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-29 09:09:12 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-29 09:09:12 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-29 09:09:12 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (5497abf4a1c0c4cd5cf368b655feb695)] -> id: closeBtn]'.
+2024-12-29 09:09:12 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Mirrors', from Parent menu: HOME & KITCHEN
+2024-12-29 09:09:12 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'HOME & KITCHEN
+2024-12-29 09:09:12 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Bags Under 1499', from Parent menu: MEN
+2024-12-29 09:09:12 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'MEN
+2024-12-29 09:09:12 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Perfumes', from Parent menu: BEAUTY
+2024-12-29 09:09:12 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'BEAUTY
+2024-12-29 09:09:13 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Bags Under 1499
+2024-12-29 09:09:13 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Home Page.
+2024-12-29 09:09:13 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (5497abf4a1c0c4cd5cf368b655feb695)] -> id: loginAjio]'.
+2024-12-29 09:09:14 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Entering value: '9820654890' in the WebElement: '[[ChromeDriver: chrome on windows (5497abf4a1c0c4cd5cf368b655feb695)] -> xpath: //input[@type='number']]'.
+2024-12-29 09:09:14 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (5497abf4a1c0c4cd5cf368b655feb695)] -> xpath: //input[@type='number']]'.
+2024-12-29 09:09:15 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (bcb33608e474d769a9a8923a506745db)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-29 09:09:15 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (5497abf4a1c0c4cd5cf368b655feb695)] -> xpath: //input[@type='submit']]'.
+2024-12-29 09:09:20 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (5497abf4a1c0c4cd5cf368b655feb695)] -> xpath: //input[@type='tel']]'.
+2024-12-29 09:09:20 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Entering OTP manually.
+2024-12-29 09:09:20 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Bags Under 1499
+2024-12-29 09:09:20 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:09:20 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Mirrors
+2024-12-29 09:09:21 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Perfumes
+2024-12-29 09:09:22 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:09:22 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:09:22 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:09:22 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:09:22 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:09:22 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:09:22 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:09:23 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:09:23 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (bcb33608e474d769a9a8923a506745db)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (bcb33608e474d769a9a8923a506745db)] -> xpath: //div[@class='brand']]
+2024-12-29 09:09:25 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (bcb33608e474d769a9a8923a506745db)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-29 09:09:25 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:09:26 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (a73afbd44459c4079034ffd96cf38c2c)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-29 09:09:26 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: NIKE - Heritage Waistpack
+2024-12-29 09:09:26 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (bcb33608e474d769a9a8923a506745db)] -> xpath: //div[@class='btn-gold']]', after '5' seconds.
+2024-12-29 09:09:28 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (0999b5ab9f42e80319ba957f3260549a)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-29 09:09:29 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-29 09:09:29 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (bcb33608e474d769a9a8923a506745db)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-29 09:09:29 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Mirrors
+2024-12-29 09:09:29 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:09:30 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (5497abf4a1c0c4cd5cf368b655feb695)] -> xpath: //input[@type='submit']]'.
+2024-12-29 09:09:31 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-29 09:09:31 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:09:31 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Product: 'NIKE: Heritage Waistpack' has been successfully added in Cart.
+2024-12-29 09:09:31 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:09:31 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:09:31 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Perfumes
+2024-12-29 09:09:31 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:09:31 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:09:31 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:09:31 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'PASSED'.
+2024-12-29 09:09:31 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:09:31 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:09:31 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:09:31 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (a73afbd44459c4079034ffd96cf38c2c)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (a73afbd44459c4079034ffd96cf38c2c)] -> xpath: //div[@class='brand']]
+2024-12-29 09:09:32 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:09:33 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:09:33 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:09:33 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:09:33 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:09:33 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:09:33 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:09:33 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:09:33 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:09:33 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:09:33 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:09:33 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (a73afbd44459c4079034ffd96cf38c2c)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-29 09:09:33 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (0999b5ab9f42e80319ba957f3260549a)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (0999b5ab9f42e80319ba957f3260549a)] -> xpath: //div[@class='brand']]
+2024-12-29 09:09:33 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:09:34 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: Home Centre - Gold-Plated Round Shape Mirror
+2024-12-29 09:09:34 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (a73afbd44459c4079034ffd96cf38c2c)] -> xpath: //div[@class='btn-gold']]', after '5' seconds.
+2024-12-29 09:09:35 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (0999b5ab9f42e80319ba957f3260549a)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-29 09:09:36 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:09:37 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-29 09:09:37 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (a73afbd44459c4079034ffd96cf38c2c)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-29 09:09:37 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: GUESS - Bella Vita Rosa Eau De Toilette
+2024-12-29 09:09:37 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (0999b5ab9f42e80319ba957f3260549a)] -> xpath: //div[@class='btn-gold']]', after '5' seconds.
+2024-12-29 09:09:38 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-29 09:09:38 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Product: 'Home Centre: Gold-Plated Round Shape Mirror' has been successfully added in Cart.
+2024-12-29 09:09:38 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:09:38 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'PASSED'.
+2024-12-29 09:09:39 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-29 09:09:39 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (0999b5ab9f42e80319ba957f3260549a)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-29 09:09:40 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[]' is Displayed.
+2024-12-29 09:09:41 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-29 09:09:41 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Product: 'GUESS: Bella Vita Rosa Eau De Toilette' has been successfully added in Cart.
+2024-12-29 09:09:41 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:09:41 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'PASSED'.
+2024-12-29 09:09:50 [TestNG-PoolService-4] ERROR com.Jio.factory.DriverFactory - WebElement is not displayed
+2024-12-29 09:09:50 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:09:51 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Log in with valid Phone number' is 'FAILED'.
+2024-12-29 09:10:45 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:10:45 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:10:45 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:10:45 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:10:45 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:10:45 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:10:45 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:10:45 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:10:45 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:10:45 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:10:45 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:10:45 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:10:45 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:10:45 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:10:45 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:10:45 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:10:57 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:10:57 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:10:57 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:10:57 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:10:57 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Log in with valid Phone number' is 'FAILED'.
+2024-12-29 09:10:57 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'FAILED'.
+2024-12-29 09:10:57 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'FAILED'.
+2024-12-29 09:10:57 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'FAILED'.
+2024-12-29 09:11:16 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:11:16 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:11:16 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:11:16 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:11:16 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:11:16 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:11:16 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:11:16 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:11:16 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:11:16 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:11:16 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:11:16 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:11:16 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:11:16 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:11:16 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:11:16 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:11:23 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-29 09:11:23 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - *********** Running SCENARIO: 'Adding Product(s) in Cart' ***********
+2024-12-29 09:11:24 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-29 09:11:24 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - *********** Running SCENARIO: 'Adding Product(s) in Cart' ***********
+2024-12-29 09:11:24 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (9cf2bb5ec1cac08c98a3333fbff05ea9)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-29 09:11:24 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-29 09:11:24 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-29 09:11:24 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (9cf2bb5ec1cac08c98a3333fbff05ea9)] -> id: closeBtn]'.
+2024-12-29 09:11:24 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (d47819f504ec17e4489f744387a969dc)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-29 09:11:24 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-29 09:11:24 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-29 09:11:24 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (d47819f504ec17e4489f744387a969dc)] -> id: closeBtn]'.
+2024-12-29 09:11:24 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-29 09:11:24 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - *********** Running SCENARIO: 'Log in with valid Phone number' ***********
+2024-12-29 09:11:24 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Perfumes', from Parent menu: BEAUTY
+2024-12-29 09:11:24 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'BEAUTY
+2024-12-29 09:11:24 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-29 09:11:24 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - *********** Running SCENARIO: 'Adding Product(s) in Cart' ***********
+2024-12-29 09:11:24 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Bags Under 1499', from Parent menu: MEN
+2024-12-29 09:11:24 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'MEN
+2024-12-29 09:11:24 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (eebde824950677849e936e495f085224)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-29 09:11:24 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-29 09:11:24 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-29 09:11:25 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (bc9ee0245307f36f176ed6ca9b5ee6b6)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-29 09:11:25 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-29 09:11:25 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-29 09:11:25 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Bags Under 1499
+2024-12-29 09:11:25 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (bc9ee0245307f36f176ed6ca9b5ee6b6)] -> id: closeBtn]'.
+2024-12-29 09:11:25 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (eebde824950677849e936e495f085224)] -> id: closeBtn]'.
+2024-12-29 09:11:25 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Mirrors', from Parent menu: HOME & KITCHEN
+2024-12-29 09:11:25 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'HOME & KITCHEN
+2024-12-29 09:11:25 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Home Page.
+2024-12-29 09:11:25 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (eebde824950677849e936e495f085224)] -> id: loginAjio]'.
+2024-12-29 09:11:25 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Entering value: '9820654890' in the WebElement: '[[ChromeDriver: chrome on windows (eebde824950677849e936e495f085224)] -> xpath: //input[@type='number']]'.
+2024-12-29 09:11:25 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (eebde824950677849e936e495f085224)] -> xpath: //input[@type='number']]'.
+2024-12-29 09:11:26 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (d47819f504ec17e4489f744387a969dc)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-29 09:11:26 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (eebde824950677849e936e495f085224)] -> xpath: //input[@type='submit']]'.
+2024-12-29 09:11:27 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (eebde824950677849e936e495f085224)] -> xpath: //input[@type='tel']]'.
+2024-12-29 09:11:27 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Entering OTP manually.
+2024-12-29 09:11:28 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Bags Under 1499
+2024-12-29 09:11:28 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:11:30 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:11:30 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Perfumes
+2024-12-29 09:11:30 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:11:30 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:11:30 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:11:31 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:11:31 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:11:31 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:11:31 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:11:31 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (d47819f504ec17e4489f744387a969dc)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (d47819f504ec17e4489f744387a969dc)] -> xpath: //div[@class='brand']]
+2024-12-29 09:11:32 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Mirrors
+2024-12-29 09:11:33 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (d47819f504ec17e4489f744387a969dc)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-29 09:11:34 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:11:35 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: NIKE - Heritage Waistpack
+2024-12-29 09:11:35 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (d47819f504ec17e4489f744387a969dc)] -> xpath: //div[@class='btn-gold']]', after '5' seconds.
+2024-12-29 09:11:36 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (9cf2bb5ec1cac08c98a3333fbff05ea9)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-29 09:11:37 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-29 09:11:37 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (d47819f504ec17e4489f744387a969dc)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-29 09:11:37 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (eebde824950677849e936e495f085224)] -> xpath: //input[@type='submit']]'.
+2024-12-29 09:11:38 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Perfumes
+2024-12-29 09:11:38 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:11:39 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-29 09:11:39 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Product: 'NIKE: Heritage Waistpack' has been successfully added in Cart.
+2024-12-29 09:11:39 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:11:39 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (bc9ee0245307f36f176ed6ca9b5ee6b6)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-29 09:11:40 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'PASSED'.
+2024-12-29 09:11:40 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:11:40 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:11:40 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:11:40 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:11:40 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:11:41 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:11:41 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:11:41 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:11:41 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:11:41 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:11:41 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:11:41 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Mirrors
+2024-12-29 09:11:41 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:11:41 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (9cf2bb5ec1cac08c98a3333fbff05ea9)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (9cf2bb5ec1cac08c98a3333fbff05ea9)] -> xpath: //div[@class='brand']]
+2024-12-29 09:11:43 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:11:43 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:11:43 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:11:43 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:11:43 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (9cf2bb5ec1cac08c98a3333fbff05ea9)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-29 09:11:43 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:11:43 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:11:44 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:11:44 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:11:44 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (bc9ee0245307f36f176ed6ca9b5ee6b6)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (bc9ee0245307f36f176ed6ca9b5ee6b6)] -> xpath: //div[@class='brand']]
+2024-12-29 09:11:45 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: GUESS - Bella Vita Rosa Eau De Toilette
+2024-12-29 09:11:45 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (9cf2bb5ec1cac08c98a3333fbff05ea9)] -> xpath: //div[@class='btn-gold']]', after '5' seconds.
+2024-12-29 09:11:46 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (bc9ee0245307f36f176ed6ca9b5ee6b6)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-29 09:11:46 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:11:47 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-29 09:11:47 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (9cf2bb5ec1cac08c98a3333fbff05ea9)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-29 09:11:47 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: Home Centre - Gold-Plated Round Shape Mirror
+2024-12-29 09:11:47 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (bc9ee0245307f36f176ed6ca9b5ee6b6)] -> xpath: //div[@class='btn-gold']]', after '5' seconds.
+2024-12-29 09:11:47 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[]' is Displayed.
+2024-12-29 09:11:48 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-29 09:11:49 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Product: 'GUESS: Bella Vita Rosa Eau De Toilette' has been successfully added in Cart.
+2024-12-29 09:11:49 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:11:49 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-29 09:11:49 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (bc9ee0245307f36f176ed6ca9b5ee6b6)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-29 09:11:49 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'PASSED'.
+2024-12-29 09:11:51 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-29 09:11:51 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Product: 'Home Centre: Gold-Plated Round Shape Mirror' has been successfully added in Cart.
+2024-12-29 09:11:51 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:11:51 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'PASSED'.
+2024-12-29 09:11:57 [TestNG-PoolService-4] ERROR com.Jio.factory.DriverFactory - WebElement is not displayed
+2024-12-29 09:11:57 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:11:57 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Log in with valid Phone number' is 'FAILED'.
+2024-12-29 09:12:20 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:12:20 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:12:20 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:12:20 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Initializing WebDriver
+2024-12-29 09:12:20 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:12:20 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:12:20 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:12:20 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test suite on ENV: sit
+2024-12-29 09:12:20 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:12:20 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:12:20 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:12:20 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test suite on Browser: chrome
+2024-12-29 09:12:20 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:12:20 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:12:20 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:12:20 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Running test on Chrome in Incognito mode.
+2024-12-29 09:12:29 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-29 09:12:29 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - *********** Running SCENARIO: 'Adding Product(s) in Cart' ***********
+2024-12-29 09:12:29 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (089152d446e06ed866ee55279c28138f)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-29 09:12:29 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-29 09:12:29 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-29 09:12:29 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (089152d446e06ed866ee55279c28138f)] -> id: closeBtn]'.
+2024-12-29 09:12:30 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-29 09:12:30 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - *********** Running SCENARIO: 'Adding Product(s) in Cart' ***********
+2024-12-29 09:12:30 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-29 09:12:30 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - *********** Running SCENARIO: 'Adding Product(s) in Cart' ***********
+2024-12-29 09:12:30 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Navigated to URL: https://www.ajio.com
+2024-12-29 09:12:30 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - *********** Running SCENARIO: 'Log in with valid Phone number' ***********
+2024-12-29 09:12:30 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Perfumes', from Parent menu: BEAUTY
+2024-12-29 09:12:30 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'BEAUTY
+2024-12-29 09:12:30 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (52c1ca495a6e7a1f14b49db58f09e18f)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-29 09:12:30 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (0edd03f606feab47e03ef9d8222195b0)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-29 09:12:30 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[[[ChromeDriver: chrome on windows (58267229abcc62580c72c94fc202d47a)] -> xpath: //div[@class='modal-content ']]]' is Displayed.
+2024-12-29 09:12:30 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-29 09:12:30 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-29 09:12:30 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-29 09:12:30 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (0edd03f606feab47e03ef9d8222195b0)] -> id: closeBtn]'.
+2024-12-29 09:12:30 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-29 09:12:30 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (58267229abcc62580c72c94fc202d47a)] -> id: closeBtn]'.
+2024-12-29 09:12:30 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Single WebElement is displayed.
+2024-12-29 09:12:30 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Location Popup is present, hence closing the popup.
+2024-12-29 09:12:30 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (52c1ca495a6e7a1f14b49db58f09e18f)] -> id: closeBtn]'.
+2024-12-29 09:12:31 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Mirrors', from Parent menu: HOME & KITCHEN
+2024-12-29 09:12:31 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'HOME & KITCHEN
+2024-12-29 09:12:31 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Home Page.
+2024-12-29 09:12:31 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (0edd03f606feab47e03ef9d8222195b0)] -> id: loginAjio]'.
+2024-12-29 09:12:31 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: 'Bags Under 1499', from Parent menu: MEN
+2024-12-29 09:12:31 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'MEN
+2024-12-29 09:12:31 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Bags Under 1499
+2024-12-29 09:12:31 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Entering value: '9820654890' in the WebElement: '[[ChromeDriver: chrome on windows (0edd03f606feab47e03ef9d8222195b0)] -> xpath: //input[@type='number']]'.
+2024-12-29 09:12:31 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (0edd03f606feab47e03ef9d8222195b0)] -> xpath: //input[@type='number']]'.
+2024-12-29 09:12:32 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (0edd03f606feab47e03ef9d8222195b0)] -> xpath: //input[@type='submit']]'.
+2024-12-29 09:12:33 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (52c1ca495a6e7a1f14b49db58f09e18f)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-29 09:12:33 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (0edd03f606feab47e03ef9d8222195b0)] -> xpath: //input[@type='tel']]'.
+2024-12-29 09:12:33 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Entering OTP manually.
+2024-12-29 09:12:37 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Bags Under 1499
+2024-12-29 09:12:37 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:12:37 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Perfumes
+2024-12-29 09:12:39 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:12:39 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:12:39 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:12:39 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:12:39 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:12:39 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:12:39 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:12:39 [TestNG-PoolService-3] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:12:40 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (52c1ca495a6e7a1f14b49db58f09e18f)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (52c1ca495a6e7a1f14b49db58f09e18f)] -> xpath: //div[@class='brand']]
+2024-12-29 09:12:41 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Trying to find WebElement with Title as: 'Mirrors
+2024-12-29 09:12:42 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (52c1ca495a6e7a1f14b49db58f09e18f)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-29 09:12:42 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'NIKE', and item: 'Heritage Waistpack
+2024-12-29 09:12:43 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (089152d446e06ed866ee55279c28138f)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-29 09:12:43 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: NIKE - Heritage Waistpack
+2024-12-29 09:12:43 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (52c1ca495a6e7a1f14b49db58f09e18f)] -> xpath: //div[@class='btn-gold']]', after '5' seconds.
+2024-12-29 09:12:43 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (0edd03f606feab47e03ef9d8222195b0)] -> xpath: //input[@type='submit']]'.
+2024-12-29 09:12:45 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Perfumes
+2024-12-29 09:12:45 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:12:46 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-29 09:12:46 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (52c1ca495a6e7a1f14b49db58f09e18f)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-29 09:12:46 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:12:46 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:12:47 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:12:47 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:12:47 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:12:47 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:12:47 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:12:47 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:12:47 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:12:47 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:12:47 [TestNG-PoolService-1] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:12:47 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-29 09:12:47 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Product: 'NIKE: Heritage Waistpack' has been successfully added in Cart.
+2024-12-29 09:12:47 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:12:47 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (089152d446e06ed866ee55279c28138f)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (089152d446e06ed866ee55279c28138f)] -> xpath: //div[@class='brand']]
+2024-12-29 09:12:48 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (58267229abcc62580c72c94fc202d47a)] -> xpath: //a[@title]]', after '3' seconds.
+2024-12-29 09:12:48 [TestNG-PoolService-3] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'PASSED'.
+2024-12-29 09:12:49 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to: Mirrors
+2024-12-29 09:12:49 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Finding for a Product of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:12:50 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (089152d446e06ed866ee55279c28138f)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-29 09:12:50 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'GUESS', and item: 'Bella Vita Rosa Eau De Toilette
+2024-12-29 09:12:51 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:12:51 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:12:51 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:12:51 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:12:51 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: GUESS - Bella Vita Rosa Eau De Toilette
+2024-12-29 09:12:51 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:12:51 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (089152d446e06ed866ee55279c28138f)] -> xpath: //div[@class='btn-gold']]', after '5' seconds.
+2024-12-29 09:12:51 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:12:51 [TestNG-PoolService-2] ERROR com.Jio.factory.DriverFactory - No such Product found of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:12:51 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Using Actions, do click on Child sub-menu: '[[ChromeDriver: chrome on windows (58267229abcc62580c72c94fc202d47a)] -> xpath: //div[@aria-label='Quick View']]', from Parent menu: [[ChromeDriver: chrome on windows (58267229abcc62580c72c94fc202d47a)] -> xpath: //div[@class='brand']]
+2024-12-29 09:12:53 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-29 09:12:53 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (089152d446e06ed866ee55279c28138f)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-29 09:12:53 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (58267229abcc62580c72c94fc202d47a)] -> xpath: //div[@aria-label='Quick View']]', after '3' seconds.
+2024-12-29 09:12:54 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Verifying if the WebElement: '[]' is Displayed.
+2024-12-29 09:12:54 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicked on Product of Brand: 'Home Centre', and item: 'Gold-Plated Round Shape Mirror
+2024-12-29 09:12:55 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Quick view Modal is opened for: Home Centre - Gold-Plated Round Shape Mirror
+2024-12-29 09:12:55 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (58267229abcc62580c72c94fc202d47a)] -> xpath: //div[@class='btn-gold']]', after '5' seconds.
+2024-12-29 09:12:55 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-29 09:12:55 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Product: 'GUESS: Bella Vita Rosa Eau De Toilette' has been successfully added in Cart.
+2024-12-29 09:12:55 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:12:56 [TestNG-PoolService-1] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'PASSED'.
+2024-12-29 09:12:57 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Product has been successfully added to cart.
+2024-12-29 09:12:57 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Clicking on WebElement: '[[ChromeDriver: chrome on windows (58267229abcc62580c72c94fc202d47a)] -> xpath: //div[@class='ic-cart ']]', after '3' seconds.
+2024-12-29 09:12:58 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - User has been successfully navigated to Cart.
+2024-12-29 09:12:58 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Product: 'Home Centre: Gold-Plated Round Shape Mirror' has been successfully added in Cart.
+2024-12-29 09:12:58 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:12:59 [TestNG-PoolService-2] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Adding Product(s) in Cart' is 'PASSED'.
+2024-12-29 09:13:04 [TestNG-PoolService-4] ERROR com.Jio.factory.DriverFactory - WebElement is not displayed
+2024-12-29 09:13:04 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - Closing the Browser and Removing driver thread.
+2024-12-29 09:13:04 [TestNG-PoolService-4] INFO  com.Jio.factory.DriverFactory - SCENARIO: 'Log in with valid Phone number' is 'FAILED'.
