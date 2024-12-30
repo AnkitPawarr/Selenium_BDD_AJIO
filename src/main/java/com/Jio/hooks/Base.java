@@ -4,6 +4,8 @@ import com.Jio.factory.DriverFactory;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 
 public class Base extends DriverFactory {
@@ -32,6 +34,12 @@ public class Base extends DriverFactory {
 
     @After(order = 100)
     public void tearDown(Scenario sc) {
+        if (sc.isFailed()) {
+            // take screenshot:
+            String screenshotName = sc.getName().replaceAll(" ", "_");
+            byte[] sourcePath = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
+            sc.attach(sourcePath, "image/png", screenshotName);
+        }
         quitTlDriver();
         log.info("SCENARIO: '" + sc.getName() + "' is '" + sc.getStatus() + "'.");
         System.out.println("********************** SCENARIO: '" + sc.getName() +

@@ -222,7 +222,7 @@ public class ElementUtil {
     public void doClickOnOtherElement(List<WebElement> options, String optionText, List<WebElement> subOptions, String subOptionText, List<WebElement> checkboxes) throws InterruptedException {
         log.info("Finding for a Product of Brand: '" + optionText + "', and item: '" + subOptionText);
 
-        jsUtil.scrollPageDown("8500");
+        jsUtil.scrollPageDown("8000");
         Thread.sleep(1500);
 
         for (int i = 0; i < options.size(); i++) {

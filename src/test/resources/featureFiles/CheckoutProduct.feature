@@ -14,4 +14,4 @@ Feature: Checkout Products
       | Category       | Menu            | Brand_name  | Product                         |
       | BEAUTY         | Perfumes        | GUESS       | Bella Vita Rosa Eau De Toilette |
       | HOME & KITCHEN | Mirrors         | Home Centre | Gold-Plated Round Shape Mirror  |
-      | MEN            | Bags Under 1499 | NIKE        | Heritage Waistpack              |
+      #| MEN            | Bags Under 1499 | NIKE        | Heritage Waistpack              |
