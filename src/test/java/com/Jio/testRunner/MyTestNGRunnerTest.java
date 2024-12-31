@@ -8,7 +8,7 @@ import org.testng.annotations.DataProvider;
         glue = {"com.Jio.stepDefinitions", "com.Jio.hooks"},
         features = {"src/test/resources/featureFiles"},
         monochrome = true,
-        //tags = "not @Login",
+        tags = "not @Login",
         plugin = {
                 "pretty",
                 "html:target/cucumber-reports/cucumber.html",
@@ -17,9 +17,9 @@ import org.testng.annotations.DataProvider;
         }
 )
 public class MyTestNGRunnerTest extends AbstractTestNGCucumberTests {
-    @Override
+    /*@Override
     @DataProvider(parallel = true)
     public Object[][] scenarios() {
         return super.scenarios();
-    }
+    }*/
 }
